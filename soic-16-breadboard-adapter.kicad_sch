@@ -1200,7 +1200,7 @@
 			(uuid "cb9f8fa6-e418-4314-951f-0c9bee84f109")
 		)
 		(instances
-			(project ""
+			(project "soic-16-breadboard-adapter"
 				(path "/3d369eba-302e-4e67-b38c-8668a49b0900"
 					(reference "J2")
 					(unit 1)
@@ -1262,31 +1262,31 @@
 			)
 		)
 		(pin "1"
-			(uuid "396487c9-937e-47d3-a03e-308224a3c9f1")
+			(uuid "396487c9-937e-47d3-a03e-308224a3c9f2")
 		)
 		(pin "3"
-			(uuid "adcffd1c-8585-44e5-8248-52ec55787128")
+			(uuid "adcffd1c-8585-44e5-8248-52ec55787129")
 		)
 		(pin "2"
-			(uuid "cf71dd14-5bc0-43c6-8631-aa3bdabba78b")
+			(uuid "cf71dd14-5bc0-43c6-8631-aa3bdabba78c")
 		)
 		(pin "8"
-			(uuid "9f4d69cd-8a18-471e-be12-c13614c84548")
+			(uuid "9f4d69cd-8a18-471e-be12-c13614c84549")
 		)
 		(pin "4"
-			(uuid "0483b3ff-78ee-401d-a829-0dc81ebfa6a9")
+			(uuid "0483b3ff-78ee-401d-a829-0dc81ebfa6aa")
 		)
 		(pin "6"
-			(uuid "efe561cb-018f-4d23-bbe1-9db5c81414a1")
+			(uuid "efe561cb-018f-4d23-bbe1-9db5c81414a2")
 		)
 		(pin "5"
-			(uuid "a8188ee0-b0dd-4ba5-8da8-8ffff4f43377")
+			(uuid "a8188ee0-b0dd-4ba5-8da8-8ffff4f43378")
 		)
 		(pin "7"
-			(uuid "cb9f8fa6-e418-4314-951f-0c9bee84f109")
+			(uuid "cb9f8fa6-e418-4314-951f-0c9bee84f10a")
 		)
 		(instances
-			(project ""
+			(project "soic-16-breadboard-adapter"
 				(path "/3d369eba-302e-4e67-b38c-8668a49b0900"
 					(reference "J1")
 					(unit 1)
@@ -1396,7 +1396,7 @@
 			(uuid "7ca936e4-d98f-4832-a70e-5fbc9902ba3c")
 		)
 		(instances
-			(project ""
+			(project "soic-16-breadboard-adapter"
 				(path "/3d369eba-302e-4e67-b38c-8668a49b0900"
 					(reference "J3")
 					(unit 1)
